@@ -17,6 +17,7 @@ function App() {
         <Route path="/services/web-development" element={<WebDevelopment />} />
         <Route path="/services/app-development" element={<AppDevelopment />} />
 
+
         
         <Route path="/solutions/startup" element={<StartupSolution/>}/>
         
